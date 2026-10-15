@@ -21,3 +21,11 @@ def get_evaluation_prompt():
     prompt_path = os.path.join(PROMPT_DIR, "evaluation_prompt.md")
     with open(prompt_path, "r", encoding="utf-8") as file:
         return file.read()
+
+def get_rewrite_prompt():
+    with open(os.path.join(PROMPT_DIR, "rewrite_prompt.md")) as file:
+        return file.read()
+
+def get_format_prompt():
+    with open(os.path.join(PROMPT_DIR, "format_prompt.md")) as file:
+        return file.read()
