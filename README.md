@@ -54,7 +54,7 @@ By combining ATS analysis, skill extraction, mock interviews, and AI-powered res
 
 ## 🎥 ResumeStudio Demo
 <img width="1906" height="877" alt="ResumeStudio SS" src="https://github.com/user-attachments/assets/03a89641-2467-4204-a471-622189d12aa4" />
-Download Video: https://github.com/yoshitashaw/ResumeStudio/blob/master/ResumeStudio_Demo.mp4
+View Video: (https://ik.imagekit.io/2bn1q9drx/ResumeStudio_Demo.mp4)
 
 
 ## 🏗️ Project Structure
