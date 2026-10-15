@@ -52,6 +52,11 @@ By combining ATS analysis, skill extraction, mock interviews, and AI-powered res
 | **python-dotenv** | Managing environment variables and API configuration |
 | **HTML & CSS** | Custom interface styling and generated resume layouts |
 
+## 🎥 ResumeStudio Demo
+<img width="1906" height="877" alt="ResumeStudio SS" src="https://github.com/user-attachments/assets/03a89641-2467-4204-a471-622189d12aa4" />
+Download Video: https://github.com/yoshitashaw/ResumeStudio/blob/master/ResumeStudio_Demo.mp4
+
+
 ## 🏗️ Project Structure
 
 ```text
