@@ -31,7 +31,7 @@ if api_key:
     llm = ChatGoogleGenerativeAI(
         model=os.getenv("GEMINI_MODEL", "gemini-3.8-flash"),
         temperature=0.2,
-        max_output_tokens=2048,
+        max_output_tokens=8192,
     )
 else:
     llm = None
